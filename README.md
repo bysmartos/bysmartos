@@ -1,6 +1,7 @@
 ### <div align="center"> Welcome to my profile! 👋</div>
 ![readme-hero](https://user-images.githubusercontent.com/104011608/187095626-08051267-3378-4ad5-b3e4-ac30bd0e60a5.png) </br>
 <h3 align="center">📫 Contact me at bysmartos@gmail.com </h3>
+<h3 align="center">💠  More about me on <a href="https://www.linkedin.com/in/smartosreyes/">Linkedin </a></h3>
 
 
 
