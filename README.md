@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://github.com/bysmartos/bysmartos/issues/1#issue-1353471292
+ ![sandra](https://user-images.githubusercontent.com/104011608/187094807-d6937c31-9f69-4ad7-b5c2-17c18ab8e5e5.png)
 
 <!--
 **bysmartos/bysmartos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
