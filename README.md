@@ -1,5 +1,6 @@
 ### Welcome to my profile! 👋
-![readme-personal-hero](https://user-images.githubusercontent.com/104011608/187095279-f9f01819-1acb-42fa-a494-edffecce0ed9.png)
+![readme-hero](https://user-images.githubusercontent.com/104011608/187095626-08051267-3378-4ad5-b3e4-ac30bd0e60a5.png)
+
 
 
 <!--
