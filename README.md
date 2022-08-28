@@ -1,5 +1,6 @@
-### Hi there 👋
- ![sandra](https://user-images.githubusercontent.com/104011608/187094807-d6937c31-9f69-4ad7-b5c2-17c18ab8e5e5.png)
+### Welcome to my profile! 👋
+![readme-personal-hero](https://user-images.githubusercontent.com/104011608/187095279-f9f01819-1acb-42fa-a494-edffecce0ed9.png)
+
 
 <!--
 **bysmartos/bysmartos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
